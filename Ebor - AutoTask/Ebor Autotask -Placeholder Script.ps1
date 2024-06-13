@@ -1,24 +1,16 @@
+Import-Module ActiveDirectory
 Import-Module Autotask
-$username = "ewwwsnnpblaybjp@ACADEMIA.CO.UK"
-$password = ConvertTo-SecureString '6j~BT$8db0S*@Ep3Yf2#~Lg4m' -AsPlainText -Force
-$credentials = New-Object System.Management.Automation.PSCredential -ArgumentList ($username, $password)
-# Enter your username and password to Autotask
-Connect-AutotaskWebAPI -Credential $Credentials -ApiTrackingIdentifier "BJBWUDOSPVKK23UKZVK3MSQQCMP"
 
-#$vyCompanies = Get-AtwsAccount -UserDefinedField @{name="Support Divison"; value="Vital York"} | Get-TypeData
+$User = "hbjok3uryxv4yk2@ACADEMIA.CO.UK"
+$PWord = ConvertTo-SecureString -String '6Er~N#8ybL@3$7Jd9Df**1AtP' -AsPlainText -Force
+$Credential = New-Object -TypeName "System.Management.Automation.PSCredential" -ArgumentList $User, $PWord
+$ApiTrackingIdentifier = 'BJBWUDOSPVKK23UKZVK3MSQQCMP'
+#Connect-AtwsWebAPI -Credential $Credential -ApiTrackingIdentifier $ApiTrackingIdentifier
 
+# Module can now load and connect automatically, so you can run any command directly
+$ticketSearch = Get-AtwsTicket -Title "Ebor Staff User Request*" -Like Title -Status "New"
 
-#foreach($c in $vyCompanies){
-#    $c.AccountName | Sort-Object -Descending
-#}
-
-#Get-AtwsAccount -Name 'Dringhouses Primary School'
-
-
-
-
-
-#$title = "Repair Test"
-#$dueDate = (Get-Date).AddDays(3)
-#$ticket = New-AtwsTicket -QueueID "Helpdesk Tickets" -Title $title -AccountID 1236 -DueDateTime $dueDate -Priority Medium -Status New
-#Write-Output $ticket.TicketNumber
+foreach($ticket in $ticketSearch){
+    $ticketNumber = $ticket.ticketNumber
+    $ticket.Description | Out-File "C:\PowerShellRocks\PowerShellRocks\Ebor - AutoTask\Outputs\$ticketNumber.txt" -Append
+}
