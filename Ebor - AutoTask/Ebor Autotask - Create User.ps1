@@ -1,4 +1,4 @@
-Import-Module ActiveDirectory
+#Import-Module ActiveDirectory
 Import-Module Autotask
 
 $ticketNumber = Read-Host "Enter ticket number"
@@ -139,7 +139,7 @@ if($requesterTicketType.ToString() -match "User Creation"){
     Clear-Content $exportedUsernamesPath
     "Username,Password" | Out-File $exportedUsernamesPath -Append
 
-    function CreateUser(){
+    function CreateStaffUser(){
         $MAT_Varibles = Import-LocalizedData -BaseDirectory "C:\Academy User Scripts\Misc" -FileName MAT_Varibles.psd1
         $ComputerDomainInfo              = Get-ADDomain -Current LocalComputer
         $ComputerDomainDistinguishedName = $ComputerDomainInfo.DistinguishedName
@@ -235,6 +235,119 @@ if($requesterTicketType.ToString() -match "User Creation"){
         & C:\GAM\Gam\Ebor\gam.exe update group all.staff.$schoolID add member $EmailAddress
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+    function CreateAdminUser(){
+        $MAT_Varibles = Import-LocalizedData -BaseDirectory "C:\Academy User Scripts\Misc" -FileName MAT_Varibles.psd1
+        $ComputerDomainInfo              = Get-ADDomain -Current LocalComputer
+        $ComputerDomainDistinguishedName = $ComputerDomainInfo.DistinguishedName
+        $ComputerDNSDomain               = $ComputerDomainInfo.DNSRoot
+        $ComputerDomainName              = $ComputerDomainInfo.Name
+        #
+        # - Sets Static Variables
+        $Date               = Get-Date
+        $i                  = 0
+        # - Sets Organization Variables
+        $TopLevelOUName     = $MAT_Varibles.TopLevelOUName
+        $RootUsersOU        = "OU=Users,OU=$TopLevelOUName,$ComputerDomainDistinguishedName"
+        $DriveLetter        = "M:"
+        # -- Admin - Active Directory / Home Folder / Profiles Home Variables
+        $Description           = $SchoolID + " Staff User"
+        $Staff_LocationOU      = "OU=Admin Staff,OU=$SchoolID,$RootUsersOU"
+        $MATDataServer         = $MAT_Varibles.School_Varibles.$SchoolID.MATDataServer
+        $Staff_HomeDirectory   = "\\$MATDataServer\Staff\$SchoolID"
+        $Staff_ProfilePath     = "\\$MATDataServer\RoamingProfiles`$\Staff\$SchoolID"  
+        $MailDomain            = $MAT_Varibles.School_Varibles.$SchoolID.Email
+        #
+        $UserPrincipalName  = "$Username`@$ComputerDNSDomain".toLower()
+        $DisplayID          =  $MAT_Varibles.School_Varibles.$SchoolID.DisplayID
+        $DisplayName        =  $Title + " " + $FirstName.Substring(0,1) + " " + $LastName + " (" + $DisplayID + ")"
+        $ADUserAlias        = "$ComputerDomainName\$Username"
+        $EmailAddress       = "$Username`@ebor.academy"
+        # - Home Folder & Profile Variables
+        $HomeRoot           = "$Staff_HomeDirectory\$Username"
+        $HomeDirectory      = "$HomeRoot\Documents"
+        $ProfilePath        = "$Staff_ProfilePath\$Username"  
+        # -- Converts Password to a Secure String     
+        $SecurePassword     = ConvertTo-SecureString -AsPlainText $Password -force
+        # Creates AD User
+        New-ADUser -Name $Username -DisplayName $DisplayName -UserPrincipalName $UserPrincipalName -GivenName $FirstName -Surname $LastName -Description $Description -AccountPassword $SecurePassword -ChangePasswordAtLogon $False -PasswordNeverExpires $True -CannotChangePassword $False -Enabled $True -HomeDirectory "$HomeDirectory" -HomeDrive "$DriveLetter" -Path "$Staff_LocationOU" -EmailAddress $EmailAddress
+        #
+        # Creates Users Home Folder
+        New-Item "$HomeDirectory" -Type Directory
+        #New-Item -ErrorAction Ignore "$Staff_ProfilePath" -Type Directory
+        #
+        # Pauses Script for 3 Seconds
+        Sleep -Seconds 3
+        #
+        # Sets Permisssions on Users Home Folder 
+        icacls.exe $HomeRoot /Grant "${username}:(OI)(CI)M"
+        #
+        # Set User Group memberships
+
+        
+        
+        # Ouput to log file
+        $outputPath = "C:\Academy User Scripts\Autotask\Tickets\Outputs"
+        $outPath = New-Item "$outputPath\$ticketNumber - Output.txt"
+        #$output  = $i.ToString() + ") Name: " + $DisplayName + "," + " Username: " + $Username + "," + " Initial Password: " + $_.Password + "," + " School ID: " + $SchoolID
+        # Email Output File
+        "Name: $newUserRequestFullName" | Add-Content $outPath
+        "Username: $username" | Add-Content $outPath
+        "Email: $emailaddress" | Add-Content $outPath 
+        "Password: $Gpassword" | Add-Content $outPath 
+
+        Write-Host "User has been created"
+
+        & C:\GAM\Gam\Ebor\gam.exe create user $EmailAddress firstname $Title lastname $LastName password $GPassword changepassword on org /$GOU/Staff/
+
+        #Group Array
+        $groupArray = @()
+        $groupSplits = $newUserGroups -replace '\s','' -split "," | foreach{$groupArray += $_}
+        if($groupArray -eq "TeacherGroup"){
+            #Google Group - Teachers
+            Write-Host "Adding to Teacher Group"
+            & C:\GAM\Gam\Ebor\gam.exe update group all.teachers.$schoolID add member $EmailAddress
+        } if ($groupArray -eq "AdminGroup") {
+            Write-Host "Adding to Admin Group"
+            #AD & Google - Admin
+            Add-ADGroupMember -Identity "$schoolID.admin" -Members $username
+            & C:\GAM\Gam\Ebor\gam.exe update group all.admin.$schoolID add member $EmailAddress
+        } if ($groupArray -eq "GovernorGroup") {
+            #Google Group - Governor
+            Write-Host "Adding to Governor Group"
+            & C:\GAM\Gam\Ebor\gam.exe update group all.governors.$schoolID add member $EmailAddress
+        } if ($groupArray -eq "TAGroup") {
+            #Google Group - TAs
+            if($schoolId -eq "BRA" -or $schoolId -eq "HR" -or $schoolId -eq "RW" -or $schoolId -eq "SH"){
+                & C:\GAM\Gam\Ebor\gam.exe update group all.ats.$schoolID add member $EmailAddress
+            } else {
+                & C:\GAM\Gam\Ebor\gam.exe update group all.tas.$schoolID add member $EmailAddress
+            }
+        } if ($groupArray -eq "StaffGroup") {
+            #AD - All Staff
+            Write-Host "Adding to Staff Group"
+            Add-ADGroupMember -Identity "$schoolID.staff" -Members $username
+        }
+        #All staff groups
+        & C:\GAM\Gam\Ebor\gam.exe update group all.staff.$schoolID add member $EmailAddress
+        & C:\GAM\Gam\Ebor\gam.exe update group all.admin.$schoolID add member $EmailAddress
+    }
+
+
+
+
+
     if($firstName -match "-"){
             $pos = $FirstName.IndexOf("-")
             $left = $FirstName.Substring(0, $pos)
@@ -250,7 +363,9 @@ if($requesterTicketType.ToString() -match "User Creation"){
         Try   { $exists = Get-ADUser -LDAPFilter "(sAMAccountName=$UsernameLower)" }
         Catch {}
         If(!$exists){
-            CreateUser
+            if($userRole -eq "Admin Staff"){
+                CreateAdminUser
+            }
         } else {
             while($exists){
                     $Username = $FirstName.Substring(0,1).ToLower() + "." + $LastName.ToLower() + $usernameLength
