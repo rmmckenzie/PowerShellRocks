@@ -1,0 +1,1068 @@
+First Name [Required],Last Name [Required],Email Address [Required],Org Unit Path [Required]
+Admin,Sherburn,admin.she@ebor.academy,/Sherburn/Admin Staff
+Admin,Riston Primary,admin.ris@ebor.academy,/Riston/Admin Staff
+Admin,Easington,admin.eas@ebor.academy,/Easington/Admin Staff
+Admin,User,admin.sig@ebor.academy,/Sigglesthorne/Admin Staff
+Admin,Robert Wilkinson,admin.rws@ebor.academy,/Robert Wilkinson/Admin Staff
+Admin,Braeburn School,admin.bra@ebor.academy,/Braeburn/Admin Staff
+Admin,Osbaldwick,admin.osb@ebor.academy,/Osbaldwick/Admin Staff
+Admin,Staynor,admin.shs@ebor.academy,/Staynor Hall/Admin Staff
+Admin,Filey Infants,admin.fis@ebor.academy,/Filey Infants/Admin Staff
+Admin,Camblesforth,admin.cam@ebor.academy,/Camblesforth/Admin Staff
+Admin,Park Grove,admin.pgs@ebor.academy,/Park Grove/Admin Staff
+Admin,Braeburn,admin.braeburn@ebor.academy,/Braeburn/Admin Staff
+Admin,Office,admin.toc@ebor.academy,/Tockwith/Admin Staff
+Admin,User,admin.hrs@ebor.academy,/Haxby Road/Admin Staff
+Admin,Office,admin.pat@ebor.academy,/Patrington/Admin Staff
+Admin,Brotherton & Byram,admin.bbs@ebor.academy,/Brotherton and Byram/Admin Staff
+Admin,Luttons,admin.lut@ebor.academy,/Sherburn/Admin Staff
+Admin Hob,Moor Primary,admin.hmp@ebor.academy,/Hob Moor/Admin Staff
+Admin Hob,Moor Oaks,admin.hmo@ebor.academy,/Hob Moor/Admin Staff
+Alishah,Bi,a.bi@ebor.academy,/Lakeside/Staff
+Amanda,Rooke,a.rooke@ebor.academy,/Lakeside/Staff
+Amy,Halsey,a.halsey@ebor.academy,/Osbaldwick/Staff
+Amy,Hunter,a.hunter1@ebor.academy,/CST
+Angela,Andersen,a.andersen@ebor.academy,/CST
+ASF,Send,send.asf@ebor.academy,/All Saints/Junior/Admin Staff
+Bayley,Noble,b.noble@ebor.academy,/CST
+BB,Test Account,bbtest@ebor.academy,/Brotherton and Byram/Staff
+Beccy,Dixon,r.dixon@ebor.academy,/CST
+Caroline,Elbra-Ramsay,c.elbraramsay@ebor.academy,/CST
+Caroline,Towler,c.towler@ebor.academy,/Tadcaster/Admin Staff
+Catherine,Winters,c.winters@ebor.academy,/Lakeside/Admin Staff
+Charlotte,Brady,c.brady@ebor.academy,/Hob Moor/Admin Staff
+Connor,Byfield,c.byfield@ebor.academy,/Lakeside/Staff
+Dani,Rowlinson,d.rowlinson@ebor.academy,/CST
+Daniel,Kirk,d.kirk@ebor.academy,/Robert Wilkinson/Staff
+Dave,Barber,d.barber@ebor.academy,/CST
+David,Wheeler,d.wheeler@ebor.academy,/CST
+Diane,Hewitson,d.hewitson@ebor.academy,/CST
+Donatella,Salvi-Woest,d.salvi-woest@ebor.academy,/Staynor Hall/Staff
+Elena,Ward,e.ward1@ebor.academy,/CST
+Elizabeth,Cooper,e.cooper@ebor.academy,/CST
+Estelle,OHara,e.ohara@ebor.academy,/CST
+Evie,Brown,e.brown@ebor.academy,/CST
+Gail,Brown,g.brown@ebor.academy,/CST
+Georgina,Bastow,g.bastow@ebor.academy,/Osbaldwick/Staff
+Hannah,Shepherd,h.shepherd@ebor.academy,/CST
+Head,Osbaldwick,head.osb@ebor.academy,/Osbaldwick/Admin Staff
+Head,Camblesforth,head.cam@ebor.academy,/Camblesforth/Admin Staff
+Head,All Saints Infants,head.asi@ebor.academy,/All Saints/Infants/Admin Staff
+Head,Teacher,head.pat@ebor.academy,/Patrington/Admin Staff
+Head,Riston Primary,head.ris@ebor.academy,/Riston/Admin Staff
+Head,@ Alderman Cogan,head.acs@ebor.academy,/Alderman Cogan/Admin Staff
+Head,Teacher,head.hrs@ebor.academy,/Haxby Road/Admin Staff
+Head,User,head.sig@ebor.academy,/Sigglesthorne/Admin Staff
+Head,Filey Infants,head.fis@ebor.academy,/Filey Infants/Admin Staff
+Head,Braeburn School,head.bra@ebor.academy,/Braeburn/Admin Staff
+Head,Park Grove,head.pgs@ebor.academy,/Park Grove/Admin Staff
+Head,Brotherton & Byram,head.bbs@ebor.academy,/Brotherton and Byram/Admin Staff
+Head,Teacher,head.eas@ebor.academy,/Easington/Admin Staff
+Head,User,head.spr@ebor.academy,/Sproatley Endowed/Admin Staff
+Head,All Saints Junior,head.asj@ebor.academy,/All Saints/Junior/Admin Staff
+Head,Tadcaster,head.tad@ebor.academy,/Tadcaster/Admin Staff
+head.,shs,head.shs@ebor.academy,/Staynor Hall/Admin Staff
+Heather,Measom,h.measom@ebor.academy,/CST
+Helen,Taylor,h.taylor@ebor.academy,/CST
+Hope,Kilvington,h.kilvington@ebor.academy,/Tockwith/Staff
+j,winter,j.winter@ebor.academy,/CST
+Janine,Fishwick,j.fishwick@ebor.academy,/CST
+Jeanette,Sutherland,j.sutherland@ebor.academy,/CST
+Jennifer,Baker,j.baker@ebor.academy,/Braeburn/Staff
+Jo,Evans,j.evans@ebor.academy,/Sherburn/Admin Staff
+Kate,Jennings,k.jennings@ebor.academy,/Sigglesthorne/Admin Staff
+Lakeside,Head,head.lak@ebor.academy,/Lakeside/Admin Staff
+Lakeside,Admin,admin.lak@ebor.academy,/Lakeside/Admin Staff
+Lara,Pearson,l.pearson@ebor.academy,/CST
+Lauren,Dempsey,l.dempsey@ebor.academy,/Patrington/Staff
+Lisa,James,l.james@ebor.academy,/Tadcaster/Staff
+Louise,Jackson,l.jackson@ebor.academy,/CST
+LP,SLT,slt.lak@ebor.academy,/Lakeside/Admin Staff
+Lucy,Tomlinson,l.tomlinson@ebor.academy,/Hob Moor/Admin Staff
+LUT Headteacher, Account,headteacher.lut@ebor.academy,/Luttons/Admin Staff
+Lynn,Dillon,l.dillon@ebor.academy,/All Saints/Junior/Staff
+Mandy,Bell,m.bell@ebor.academy,/Staynor Hall/Staff
+Mandy,Warrillow,m.warrillow@ebor.academy,/CST
+Marfleet,Admin,admin.mar@ebor.academy,/MAR/Admin Staff
+Marfleet,Head,head.mar@ebor.academy,/MAR/Admin Staff
+Marie,Bennett,m.bennett@ebor.academy,/CST
+Michelle,Clarkson,m.clarkson@ebor.academy,/CST
+Miss,Grindley,d.grindley@ebor.academy,/Alderman Cogan/Staff
+Miss,Campbell,s.campbell@ebor.academy,/Filey Infants/Staff
+Miss,Strachan,c.stratchan@ebor.academy,/Patrington/Staff
+Miss,Walker,a.walker1@ebor.academy,/Lakeside/Staff
+Miss,Schofield,j.schofield@ebor.academy,/Staynor Hall/Staff
+Miss,Moon,s.moon@ebor.academy,/All Saints/Junior/Admin Staff
+Miss,Lawrence,k.lawrence@ebor.academy,/All Saints/Infants/Staff
+Miss,Carter,s.carter@ebor.academy,/Braeburn/Staff
+Miss,Adkins,e.adkins@ebor.academy,/Osbaldwick/Staff
+Miss,Gill,e.gill1@ebor.academy,/Brotherton and Byram/Staff
+Miss,Baker,h.baker@ebor.academy,/Robert Wilkinson/Staff
+Miss,Smith,s.smith4@ebor.academy,/Patrington/Staff
+Miss,Salmon,l.salmon@ebor.academy,/Staynor Hall/Staff
+Miss,Craggs,s.craggs@ebor.academy,/Luttons/Staff
+Miss,Hirst,a.hirst@ebor.academy,/Robert Wilkinson/Staff
+Miss,Potter,j.potter@ebor.academy,/Filey Infants/Staff
+Miss,Hyam,i.hyam@ebor.academy,/Sigglesthorne/Staff
+Miss,Smith,c.smith@ebor.academy,/All Saints/Infants/Staff
+Miss,Garthwaite,k.garthwaite@ebor.academy,/Sproatley Endowed/Staff
+Miss,Zambelli,s.zambelli@ebor.academy,/Osbaldwick/Staff
+Miss,Foster,l.foster@ebor.academy,/Staynor Hall/Staff
+Miss,Hoggarth,s.hoggarth@ebor.academy,/All Saints/Junior/Staff
+Miss,Hope,c.hope1@ebor.academy,/Osbaldwick/Staff
+Miss,Lord,e.lord@ebor.academy,/Robert Wilkinson/Staff
+Miss,Alderson,l.alderson@ebor.academy,/Braeburn/Staff
+Miss,Harrison,h.harrison@ebor.academy,/All Saints/Infants/Admin Staff
+Miss,Riley,e.riley@ebor.academy,/Brotherton and Byram/Admin Staff
+Miss,Butler,s.butler@ebor.academy,/All Saints/Infants/Staff
+Miss,Jones,s.jones2@ebor.academy,/Lakeside/Staff
+Miss,Cowley,l.cowley@ebor.academy,/All Saints/Infants/Staff
+Miss,Kane,r.kane@ebor.academy,/Patrington/Staff
+Miss,McGuinn,r.mcguinn@ebor.academy,/CST
+Miss,Clark,h.clark@ebor.academy,/Staynor Hall/Staff
+Miss,Lee,j.lee1@ebor.academy,/Braeburn/Staff
+Miss,Palmer,s.palmer@ebor.academy,/Braeburn/Staff
+Miss,Coombs,f.coombs@ebor.academy,/Patrington/Staff
+Miss,Wilson,l.wilson@ebor.academy,/Brotherton and Byram/Admin Staff
+Miss,Spence,r.spence@ebor.academy,/Staynor Hall/Staff
+Miss,Coulman,g.coulman@ebor.academy,/All Saints/Infants/Staff
+Miss,Hudson,a.hudson@ebor.academy,/Osbaldwick/Staff
+Miss,Raisbeck,v.raisbeck@ebor.academy,/Haxby Road/Staff
+Miss,Barker,k.barker@ebor.academy,/Haxby Road/Staff
+Miss,Tarpey,e.tarpey@ebor.academy,/Park Grove/Staff
+Miss,Battersby,l.battersby1@ebor.academy,/Haxby Road/Staff
+Miss,Hawkes,k.hawkes@ebor.academy,/Haxby Road/Staff
+Miss,Bell,j.bell@ebor.academy,/Tadcaster/Staff
+Miss,Everitt,e.everitt@ebor.academy,/Sproatley Endowed/Staff
+Miss,Jagger,c.jagger@ebor.academy,/Robert Wilkinson/Staff
+Miss,Reeder,a.reeder@ebor.academy,/Park Grove/Staff
+Miss,Stanton,k.stanton@ebor.academy,/CST
+Miss,Garsden,e.garsden@ebor.academy,/MAR/Staff
+Miss,Taylor,l.taylor@ebor.academy,/Patrington/Staff
+Miss,Ashton,r.ashton@ebor.academy,/Brotherton and Byram/Staff
+Miss,Blackley,e.blackley@ebor.academy,/Robert Wilkinson/Staff
+Miss,Ring,k.ring@ebor.academy,/Filey Infants/Staff
+Miss,Santos,s.santos@ebor.academy,/MAR/Staff
+Miss,Collier,r.collier@ebor.academy,/Braeburn/Staff
+Miss,Shimmon,e.shimmon@ebor.academy,/Patrington/Staff
+Miss,Webster,e.webster@ebor.academy,/Filey Infants/Staff
+Miss,Holder,j.holder@ebor.academy,/Haxby Road/Staff
+Miss,Dickinson,k.dickinson@ebor.academy,/Brotherton and Byram/Staff
+Miss,Cunningham,s.cunningham@ebor.academy,/CST
+Miss,Schorah,j.schorah@ebor.academy,/Alderman Cogan/Staff
+Miss,Hodgson,s.hodgson@ebor.academy,/All Saints/Junior/Staff
+Miss,Childs,k.childs@ebor.academy,/Sherburn/Staff
+Miss,Glaholm,g.glaholm@ebor.academy,/Park Grove/Staff
+Miss,Taylor,l.taylor1@ebor.academy,/Alderman Cogan/Staff
+Miss,Sheldrick,c.sheldrick@ebor.academy,/All Saints/Infants/Staff
+Miss,Jackson,e.jackson@ebor.academy,/Haxby Road/Staff
+Miss,Scorer,t.scorer@ebor.academy,/Filey Infants/Staff
+Miss,Lythe,r.lythe@ebor.academy,/Patrington/Staff
+Miss,Broadhead,t.broadhead@ebor.academy,/Osbaldwick/Staff
+Miss,Belmonte,m.belmonte@ebor.academy,/Haxby Road/Staff
+Miss,Clinton,v.clinton1@ebor.academy,/Park Grove/Staff
+Miss,Ford,e.ford@ebor.academy,/Park Grove/Staff
+Miss,Jarvis,h.jarvis@ebor.academy,/All Saints/Junior/Staff
+Miss,Pillinger,r.pillinger@ebor.academy,/Lakeside/Staff
+Miss,Dennis,g.dennis@ebor.academy,/Robert Wilkinson/Staff
+Miss,Watson,v.watson@ebor.academy,/Robert Wilkinson/Staff
+Miss,Harris,l.harris@ebor.academy,/Patrington/Staff
+Miss,Stanton,k.stanton1@ebor.academy,/Tockwith/Staff
+Miss,Robinson,b.robinson1@ebor.academy,/Braeburn/Staff
+Miss,Bernard,f.bernard@ebor.academy,/Tockwith/Staff
+Miss,Dawson,s.dawson@ebor.academy,/Alderman Cogan/Staff
+Miss,Green,b.green@ebor.academy,/All Saints/Junior/Staff
+Miss,Moore,k.moore@ebor.academy,/Osbaldwick/Staff
+Miss,Jefferson,k.jefferson@ebor.academy,/Haxby Road/Staff
+Miss,Rowley,c.rowley@ebor.academy,/All Saints/Infants/Staff
+Miss,Cawkwell,d.cawkwell@ebor.academy,/MAR/Staff
+Miss,Broadbent,t.broadbent@ebor.academy,/Haxby Road/Staff
+Miss,Pinkney,h.pinkney@ebor.academy,/Filey Infants/Staff
+Miss,Brown,h.brown@ebor.academy,/Robert Wilkinson/Staff
+Miss,Wynn,g.wynn@ebor.academy,/Staynor Hall/Staff
+Miss,Powell,k.powell@ebor.academy,/Staynor Hall/Staff
+Miss,Ghorst,c.ghorst@ebor.academy,/Filey Infants/Staff
+Miss,Morgan,t.morgan@ebor.academy,/MAR/Staff
+Miss,Barnes,g.barnes@ebor.academy,/Park Grove/Staff
+Miss,Middlewood,g.middlewood@ebor.academy,/All Saints/Infants/Staff
+Miss,Wilkinson,a.wilkinson@ebor.academy,/All Saints/Infants/Staff
+Miss,Eccles,t.eccles@ebor.academy,/Alderman Cogan/Admin Staff
+Miss,Tatlock,j.tatlock@ebor.academy,/Robert Wilkinson/Staff
+Miss,Tovey,a.tovey@ebor.academy,/Alderman Cogan/Staff
+Miss,Thacker,h.thacker@ebor.academy,/Alderman Cogan/Staff
+Miss,Sullivan,e.sullivan@ebor.academy,/Staynor Hall/Staff
+Miss,Price,k.price@ebor.academy,/Staynor Hall/Staff
+Miss,Seekings,h.seekings@ebor.academy,/All Saints/Infants/Staff
+Miss,Hunter,m.hunter@ebor.academy,/Robert Wilkinson/Staff
+Miss,Pigg,j.pigg@ebor.academy,/Osbaldwick/Staff
+Miss,Green,k.green@ebor.academy,/All Saints/Infants/Staff
+Miss,Flower,m.flower@ebor.academy,/Filey Infants/Staff
+Miss,Sawyer,j.sawyer@ebor.academy,/Park Grove/Admin Staff
+Miss,Taylor,c.taylor@ebor.academy,/Filey Infants/Staff
+Miss,Good,r.good@ebor.academy,/Alderman Cogan/Staff
+Miss,Peet,a.peet@ebor.academy,/Patrington/Staff
+Miss,Smith,j.smith1@ebor.academy,/Robert Wilkinson/Staff
+Miss,Butterfield,c.butterfield@ebor.academy,/Filey Infants/Staff
+Miss,Pattrick,j.pattrick@ebor.academy,/Sproatley Endowed/Staff
+Miss,Wilson,e.wilson2@ebor.academy,/Alderman Cogan/Staff
+Miss,Bunker,h.bunker@ebor.academy,/Patrington/Staff
+Miss,Duffill,l.duffill@ebor.academy,/Robert Wilkinson/Staff
+Miss,Rumble,j.rumble@ebor.academy,/All Saints/Junior/Staff
+Miss,Birch,g.birch@ebor.academy,/Park Grove/Staff
+Miss,Dorman,j.dorman1@ebor.academy,/Robert Wilkinson/Staff
+Miss,MacInnes,m.macinnes@ebor.academy,/Robert Wilkinson/Staff
+Miss,Fillingham,f.fillingham@ebor.academy,/Osbaldwick/Staff
+Miss,Parker,a.parker@ebor.academy,/All Saints/Infants/Staff
+Miss,Woodward,k.woodward@ebor.academy,/Braeburn/Staff
+Miss,Green,a.green@ebor.academy,/All Saints/Infants/Staff
+Miss,Clarkson,n.clarkson@ebor.academy,/Braeburn/Staff
+Miss,Haffenden,c.haffenden@ebor.academy,/Brotherton and Byram/Staff
+Miss,Szynska,a.szynska@ebor.academy,/Easington/Staff
+Miss,Ambler,k.ambler@ebor.academy,/Tadcaster/Staff
+Miss,Potts,a.potts@ebor.academy,/Staynor Hall/Staff
+Miss,Sims,c.sims@ebor.academy,/All Saints/Junior/Staff
+Miss,Thacker,a.thacker@ebor.academy,/Alderman Cogan/Staff
+Miss,Allen,m.allen@ebor.academy,/Braeburn/Staff
+Miss,Hodson,j.hodson@ebor.academy,/Tockwith/Staff
+Miss,Hunter,s.hunter1@ebor.academy,/Lakeside/Staff
+Miss,Rodgers,r.rodgers@ebor.academy,/Filey Infants/Staff
+Miss,Bruce,k.bruce@ebor.academy,/Lakeside/Staff
+Miss,Uney,a.uney@ebor.academy,/Sproatley Endowed/Staff
+Miss,Cavanagh,i.cavanagh@ebor.academy,/Osbaldwick/Staff
+Miss,Grainger,j.grainger@ebor.academy,/Robert Wilkinson/Staff
+Miss,Ashwood,k.ashwood@ebor.academy,/Robert Wilkinson/Staff
+Miss,Elcock,s.elcock1@ebor.academy,/Staynor Hall/Staff
+Miss,Makepeace,m.makepeace@ebor.academy,/Braeburn/Staff
+Miss,Easton,s.easton@ebor.academy,/Haxby Road/Staff
+Miss,Wilson,d.wilson@ebor.academy,/MAR/Staff
+Miss,Nasir,l.nasir@ebor.academy,/Haxby Road/Staff
+Miss,Williams,j.williams@ebor.academy,/Filey Infants/Staff
+Miss,Carter,k.carter2@ebor.academy,/Osbaldwick/Staff
+Miss,Withers,c.withers@ebor.academy,/Filey Infants/Staff
+Miss,Foster,c.foster@ebor.academy,/Patrington/Staff
+Miss,Spark,h.spark1@ebor.academy,/Staynor Hall/Staff
+Miss,Trotter,e.trotter@ebor.academy,/Braeburn/Staff
+Miss,Hemsley,l.hemsley@ebor.academy,/Park Grove/Staff
+Miss,Tyler,a.tyler@ebor.academy,/Filey Infants/Staff
+Miss,Pritchard,a.pritchard@ebor.academy,/Sproatley Endowed/Staff
+Miss,Starr,n.starr@ebor.academy,/Haxby Road/Staff
+Miss,Gulc,k.gulc@ebor.academy,/Osbaldwick/Staff
+Miss,Levesley,b.levesley@ebor.academy,/All Saints/Junior/Staff
+Miss,Hollingworth,d.hollingworth@ebor.academy,/Alderman Cogan/Staff
+Miss,Desborough,k.desborough@ebor.academy,/Alderman Cogan/Staff
+Miss,Russell,a.russell@ebor.academy,/Patrington/Staff
+Miss,Collingwood,a.collingwood@ebor.academy,/Sigglesthorne/Staff
+Miss,Drake,l.drake@ebor.academy,/Park Grove/Staff
+Miss,Hall,j.hall@ebor.academy,/Park Grove/Staff
+Miss,Nicholson,n.nicholson@ebor.academy,/Robert Wilkinson/Staff
+Miss,Cherrington,l.cherrington@ebor.academy,/All Saints/Infants/Staff
+Miss,Ward,r.ward1@ebor.academy,/Staynor Hall/Staff
+Miss,Walker,k.walker@ebor.academy,/Haxby Road/Staff
+Miss,Cappleman,l.cappleman@ebor.academy,/Braeburn/Staff
+Miss,Potter,a.potter@ebor.academy,/Sigglesthorne/Staff
+Miss,Cawthorn,j.cawthorn@ebor.academy,/Camblesforth/Staff
+Miss,Bird,h.bird@ebor.academy,/Brotherton and Byram/Staff
+Miss,Shand,l.shand@ebor.academy,/Patrington/Staff
+Miss,Davies,l.davies@ebor.academy,/Patrington/Staff
+Miss,Reina,s.reina@ebor.academy,/Patrington/Staff
+Miss,Heron,e.heron@ebor.academy,/Brotherton and Byram/Staff
+Miss,Nolan,k.nolan@ebor.academy,/CST
+Miss,Hemingway,a.hemingway@ebor.academy,/MAR/Staff
+Miss,Patten,d.patten@ebor.academy,/Osbaldwick/Staff
+Miss,Whyman,m.whyman@ebor.academy,/Robert Wilkinson/Staff
+Miss,Young,r.young@ebor.academy,/Sigglesthorne/Staff
+Miss,Warner,m.warner@ebor.academy,/All Saints/Junior/Staff
+Miss,Fry,k.fry@ebor.academy,/Luttons/Staff
+Miss,Cambage,j.cambage@ebor.academy,/Park Grove/Staff
+Miss,Roen,j.roen1@ebor.academy,/Filey Infants/Staff
+Miss,Boynton,j.boynton@ebor.academy,/Robert Wilkinson/Staff
+Miss,Barr,c.barr@ebor.academy,/Filey Infants/Staff
+Miss,Mcholm,g.mcholm@ebor.academy,/Robert Wilkinson/Staff
+Miss,Fawcett,l.fawcett@ebor.academy,/Staynor Hall/Staff
+Miss,Walker,p.walker1@ebor.academy,/All Saints/Infants/Staff
+Miss,McLoughlin,v.mcloughlin@ebor.academy,/Alderman Cogan/Staff
+Miss,Fletcher,t.fletcher@ebor.academy,/All Saints/Infants/Staff
+Miss,Wilson,b.wilson1@ebor.academy,/Tadcaster/Staff
+Miss,Oglesby,j.oglesby@ebor.academy,/Brotherton and Byram/Staff
+Miss,Thomson,s.thomson@ebor.academy,/All Saints/Infants/Staff
+Miss,Byerley,d.byerley@ebor.academy,/Braeburn/Staff
+Miss,Kay,n.kay@ebor.academy,/Osbaldwick/Staff
+Miss,Platts,c.platts@ebor.academy,/Park Grove/Staff
+Miss,Beswick,k.beswick@ebor.academy,/Braeburn/Staff
+Miss,Cain,j.cain@ebor.academy,/Haxby Road/Staff
+Miss,Smith,p.smith1@ebor.academy,/Alderman Cogan/Staff
+Miss,Green,a.green1@ebor.academy,/Braeburn/Staff
+Miss,Courtney,j.courtney@ebor.academy,/All Saints/Infants/Staff
+Miss,Harrison,b.harrison@ebor.academy,/All Saints/Junior/Staff
+Miss,Onyett,m.onyett@ebor.academy,/Osbaldwick/Staff
+Miss,Mockridge,l.mockridge@ebor.academy,/Braeburn/Staff
+Miss,Jackson,l.jackson1@ebor.academy,/All Saints/Junior/Staff
+Miss,Tunley,b.tunley@ebor.academy,/Robert Wilkinson/Admin Staff
+Miss,Idzinska,j.idzinska@ebor.academy,/Haxby Road/Staff
+Miss,Thorpe,j.thorpe1@ebor.academy,/Haxby Road/Staff
+Miss,Taylor,c.taylor1@ebor.academy,/Haxby Road/Staff
+Miss,Humble,l.humble@ebor.academy,/Osbaldwick/Staff
+Miss,Reeve,h.reeve@ebor.academy,/All Saints/Infants/Staff
+Miss,Smyth,s.smyth@ebor.academy,/Brotherton and Byram/Staff
+Miss,Bland,k.bland@ebor.academy,/Filey Infants/Staff
+Miss,Noble,m.noble@ebor.academy,/Alderman Cogan/Admin Staff
+Miss,Chugg,s.chugg@ebor.academy,/Staynor Hall/Staff
+Miss,Townsend,s.townsend@ebor.academy,/Filey Infants/Staff
+Miss,Spivey,a.spivey@ebor.academy,/Braeburn/Staff
+Miss,Winter,g.winter@ebor.academy,/Filey Infants/Staff
+Miss,Souter,c.souter@ebor.academy,/Braeburn/Staff
+Miss,Jackson,a.jackson1@ebor.academy,/All Saints/Infants/Staff
+Miss,Robinson,l.robinson1@ebor.academy,/Filey Infants/Staff
+Miss,Jurado,a.jurado@ebor.academy,/Haxby Road/Staff
+Miss,Jenkyns,s.jenkyns@ebor.academy,/Sproatley Endowed/Admin Staff
+Miss,Payne,n.payne@ebor.academy,/MAR/Staff
+Miss,Smith,r.smith2@ebor.academy,/Staynor Hall/Staff
+Miss,Willson,h.willson@ebor.academy,/Braeburn/Staff
+Miss,Gillon,s.gillon@ebor.academy,/Osbaldwick/Staff
+Miss,Spivey,j.spivey1@ebor.academy,/Sproatley Endowed/Staff
+Miss,Mcintee,e.mcintee@ebor.academy,/Staynor Hall/Staff
+Miss,Lewis,j.lewis@ebor.academy,/Haxby Road/Staff
+Miss,Bolster,a.bolster@ebor.academy,/All Saints/Junior/Staff
+Miss,Bye,l.bye@ebor.academy,/Park Grove/Staff
+Miss,Hiley,s.hiley@ebor.academy,/Filey Infants/Staff
+Miss,Groom,e.groom@ebor.academy,/Riston/Staff
+Miss,Danton,h.danton@ebor.academy,/Haxby Road/Staff
+Miss,Marshall-Steward,e.steward@ebor.academy,/Riston/Staff
+Miss,Johnson,c.johnson@ebor.academy,/Brotherton and Byram/Staff
+Miss,Bamford,l.bamford@ebor.academy,/Lakeside/Staff
+Miss,Catterall,g.catterall@ebor.academy,/Brotherton and Byram/Staff
+Miss,Davidson,e.davidson@ebor.academy,/Tockwith/Staff
+Miss,Halsey,j.halsey@ebor.academy,/Osbaldwick/Staff
+Miss,Maughan,k.maughan@ebor.academy,/Osbaldwick/Staff
+Miss,Kilkenny,y.kilkenny@ebor.academy,/Easington/Staff
+Miss,Haldenby,l.haldenby@ebor.academy,/Filey Infants/Staff
+Miss,Whattam,k.whattam@ebor.academy,/Park Grove/Staff
+Miss,Gunasekera,n.gunasekera@ebor.academy,/Robert Wilkinson/Staff
+Miss,Edlington,p.edlington@ebor.academy,/Osbaldwick/Staff
+Miss,Leng,l.leng@ebor.academy,/Brotherton and Byram/Staff
+Miss,Parker,c.parker@ebor.academy,/Brotherton and Byram/Staff
+Miss,Turner,e.turner1@ebor.academy,/Riston/Staff
+Miss ,Beaver,l.beaver@ebor.academy,/Braeburn/Staff
+Miss ,Race,a.race@ebor.academy,/Park Grove/Staff
+Miss ,Crawford,h.crawford@ebor.academy,/Osbaldwick/Staff
+Miss ,Taylor,j.taylor1@ebor.academy,/Tockwith/Staff
+Miss ,Lawson,c.lawson@ebor.academy,/Haxby Road/Staff
+Miss ,Heels,a.heels@ebor.academy,/Haxby Road/Staff
+Miss ,Atkinson,l.atkinson@ebor.academy,/All Saints/Junior/Staff
+Miss ,Chivers,s.chivers@ebor.academy,/Haxby Road/Staff
+Miss ,Lutkin,n.lutkin@ebor.academy,/MAR/Staff
+Miss ,Sharpe,s.sharpe@ebor.academy,/Haxby Road/Staff
+Miss ,Mitchell,l.mitchell@ebor.academy,/MAR/Staff
+Miss ,Lawson,c.lawson1@ebor.academy,/Haxby Road/Staff
+Miss ,Peart,e.peart@ebor.academy,/CST
+Miss ,Wolfenden,m.wolfenden@ebor.academy,/Staynor Hall/Staff
+Miss ,Cresswell,g.cresswell@ebor.academy,/MAR/Staff
+Miss  ,Fullar,j.fullar@ebor.academy,/Alderman Cogan/Staff
+Miss A,Wilson,a.wilson2@ebor.academy,/MAR/Staff
+mmt,mmt,mmt@sh.ebor.academy,/Staynor Hall/Staff
+Mr,Hodges,h.hodges@ebor.academy,/Robert Wilkinson/Staff
+Mr,Rogers,b.rogers@ebor.academy,/Park Grove/Staff
+Mr,Greene,b.greene@ebor.academy,/Brotherton and Byram/Admin Staff
+Mr,Greake,r.geake@ebor.academy,/Tockwith/Staff
+Mr,Roe,c.roe@ebor.academy,/Sigglesthorne/Staff
+Mr,Goodacre,n.goodacre@ebor.academy,/Tockwith/Staff
+Mr,Snuggs,t.snuggs@ebor.academy,/Sproatley Endowed/Staff
+Mr,Tennison,m.tennison@ebor.academy,/Sigglesthorne/Staff
+Mr,Gunnell,d.gunnell@ebor.academy,/Lakeside/Staff
+Mr,Ellis,t.ellis1@ebor.academy,/Sherburn/Staff
+Mr,White,l.white@ebor.academy,/Tockwith/Staff
+Mr,Jordan,k.jordan@ebor.academy,/Braeburn/Staff
+Mr,Armstrong,j.armstrong@ebor.academy,/Braeburn/Staff
+Mr,Branchette,z.branchette@ebor.academy,/Haxby Road/Staff
+Mr,Stoner,g.stoner@ebor.academy,/Park Grove/Staff
+Mr,Marshall,s.marshall@ebor.academy,/Patrington/Staff
+Mr,Huby,m.huby@ebor.academy,/Camblesforth/Staff
+Mr,Hopkins,g.hopkins@ebor.academy,/Braeburn/Staff
+Mr,Willson,a.willson@ebor.academy,/Staynor Hall/Staff
+Mr,Robinson,g.robinson1@ebor.academy,/Osbaldwick/Staff
+Mr,Dolling,t.dolling@ebor.academy,/Robert Wilkinson/Staff
+Mr,Derbyshire,r.derbyshire@ebor.academy,/Patrington/Staff
+Mr,Card,d.card@ebor.academy,/Camblesforth/Admin Staff
+Mr,Martin,g.martin1@ebor.academy,/Park Grove/Staff
+Mr,Ellis,a.ellis@ebor.academy,/All Saints/Junior/Staff
+Mr,Butcher,h.butcher@ebor.academy,/Park Grove/Staff
+Mr,Robinson,t.robinson@ebor.academy,/Haxby Road/Staff
+Mr,Needham,k.needham@ebor.academy,/Lakeside/Staff
+Mr,Turner,a.turner@ebor.academy,/Osbaldwick/Staff
+Mr,Dyson,a.dyson@ebor.academy,/Robert Wilkinson/Staff
+Mr,Hind,j.hind@ebor.academy,/Haxby Road/Staff
+Mr,Corcoran,t.corcoran@ebor.academy,/Braeburn/Staff
+Mr,Jordan,a.jordan@ebor.academy,/Braeburn/Staff
+Mr,Acaster,a.acaster@ebor.academy,/Robert Wilkinson/Staff
+Mr,Brown,p.brown@ebor.academy,/Robert Wilkinson/Staff
+Mr,Karpow,r.karpow@ebor.academy,/Robert Wilkinson/Staff
+Mr,Driffield,a.driffield@ebor.academy,/Robert Wilkinson/Staff
+Mr,Riley,k.riley@ebor.academy,/CST
+Mr,Haigh,a.haigh@ebor.academy,/CST
+Mr,Rose,b.rose@ebor.academy,/Haxby Road/Staff
+Mr,Dean,s.dean@ebor.academy,/Tockwith/Staff
+Mr,Brown,j.brown2@ebor.academy,/Park Grove/Staff
+Mr,Mellor,w.mellor@ebor.academy,/Staynor Hall/Staff
+Mr,Bargh,m.bargh@ebor.academy,/All Saints/Junior/Staff
+Mr,Wharfedale,m.wharfedale@ebor.academy,/Braeburn/Staff
+Mr,Bates,s.bates1@ebor.academy,/MAR/Staff
+Mr,Symington,a.symington@ebor.academy,/Patrington/Staff
+Mr,James,s.james@ebor.academy,/Haxby Road/Staff
+Mr,Sutherby,j.sutherby@ebor.academy,/Patrington/Staff
+Mr,Dawson,d.dawson@ebor.academy,/Haxby Road/Staff
+Mr,Crawford,s.crawford@ebor.academy,/Lakeside/Staff
+Mr,Reeves-Kemp,j.reeves-kemp@ebor.academy,/Haxby Road/Staff
+Mr,Baldwin,t.baldwin@ebor.academy,/Patrington/Staff
+Mr,Spencer,p.spencer@ebor.academy,/Patrington/Staff
+Mr,Gray,p.gray@ebor.academy,/Patrington/Staff
+Mr,Purdon,r.purdon@ebor.academy,/Easington/Staff
+Mr,Hamling,t.hamling@ebor.academy,/Riston/Staff
+Mr,Gardiner,w.gardiner@ebor.academy,/Robert Wilkinson/Staff
+Mr,Reeve,j.reeve@ebor.academy,/Tockwith/Staff
+Mr,Carrick,r.carrick@ebor.academy,/Easington/Staff
+Mr,Hughes,r.hughes3@tad.ebor.academy,/Tadcaster/Staff
+Mr,Dykes,j.dykes@ebor.academy,/Alderman Cogan/Staff
+Mr,Mendes,l.mendes1@ebor.academy,/Patrington/Staff
+Mr,Brook,p.brook@ebor.academy,/All Saints/Junior/Staff
+Mr,Handling,t.handling@ebor.academy,/Riston/Staff
+Mr,Lodge,a.lodge@ebor.academy,/Braeburn/Staff
+Mr,Welburn,p.welburn@ebor.academy,/Staynor Hall/Staff
+Mr,Parker,k.parker@ebor.academy,/MAR/Staff
+Mr,Hay,m.hay@ebor.academy,/All Saints/Infants/Staff
+Mr,Pearson,n.pearson@ebor.academy,/Filey Infants/Staff
+Mr,Sands,a.sands@ebor.academy,/Tadcaster/Staff
+Mr,Blake,t.blake@ebor.academy,/All Saints/Infants/Staff
+Mr,Bowes,j.bowes@ebor.academy,/Easington/Staff
+Mr,Foster,s.foster1@ebor.academy,/Tadcaster/Staff
+Mr,Jackson,a.jackson@ebor.academy,/Filey Infants/Staff
+Mr,Dear,j.dear@ebor.academy,/Alderman Cogan/Staff
+Mr,David,a.david@ebor.academy,/Robert Wilkinson/Staff
+Mr,Saunders,n.saunders@ebor.academy,/Patrington/Staff
+Mr,Harrison,j.harrison@ebor.academy,/All Saints/Infants/Staff
+Mr,Brown,m.brown@ebor.academy,/Osbaldwick/Staff
+Mr,Metcalfe,s.metcalfe@ebor.academy,/Brotherton and Byram/Staff
+Mr,Parkinson,w.parkinson@ebor.academy,/Tadcaster/Staff
+Mr,Cherry,s.cherry@ebor.academy,/Sproatley Endowed/Staff
+Mr,Carrigan,e.carrigan@ebor.academy,/Robert Wilkinson/Staff
+Mr,Ramzan,s.ramzan@ebor.academy,/Tadcaster/Staff
+Mr,Peck,k.peck@ebor.academy,/Alderman Cogan/Staff
+Mr,Holmes,s.holmes@ebor.academy,/Alderman Cogan/Staff
+Mr,Tucker,j.tucker@ebor.academy,/Alderman Cogan/Staff
+Mr,Kendall,j.kendall1@ebor.academy,/All Saints/Junior/Staff
+Mr,Craven,b.craven@ebor.academy,/Luttons/Staff
+Mr,Parker,d.parker@ebor.academy,/All Saints/Junior/Staff
+Mr ,Drage,t.drage@ebor.academy,/Sproatley Endowed/Staff
+Mr ,Test,a.test@ebor.academy,/Alderman Cogan/Staff
+Mr ,Hague,l.hague@ebor.academy,/Staynor Hall/Staff
+Mr ,Account,t.account@ebor.academy,/Alderman Cogan/Staff
+Mr ,Wise,d.wise@ebor.academy,/Patrington/Staff
+Mr ,Rafferty,j.rafferty@ebor.academy,/Braeburn/Staff
+Mr Carl,Potter,c.potter2@ebor.academy,/Osbaldwick/Staff
+Mrs,Simms,j.simms@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Smith,s.smith3@ebor.academy,/Lakeside/Staff
+Mrs,Jones,s.jones@ebor.academy,/All Saints/Infants/Staff
+Mrs,Stoddart,s.stoddart@ebor.academy,/MAR/Staff
+Mrs,Thomas,k.thomas@ebor.academy,/MAR/Staff
+Mrs,Blyth,a.blyth@ebor.academy,/Patrington/Staff
+Mrs,Gill ,s.gill@ebor.academy,/CST
+Mrs,Byfield,s.byfield@ebor.academy,/Lakeside/Staff
+Mrs,Hartley,s.hartley@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Wilde,k.wilde@ebor.academy,/Sigglesthorne/Staff
+Mrs,Sisson,s.sisson@ebor.academy,/Alderman Cogan/Staff
+Mrs,Sawyers,e.sawyers@ebor.academy,/All Saints/Infants/Staff
+Mrs,Higginson,l.higginson@ebor.academy,/Camblesforth/Staff
+Mrs,Hepworth,h.hepworth@ebor.academy,/MAR/Staff
+Mrs,Bentley,l.bentley@ebor.academy,/All Saints/Infants/Staff
+Mrs,Craft,a.craft@ebor.academy,/MAR/Staff
+Mrs,Danbury,v.danbury@ebor.academy,/Staynor Hall/Staff
+Mrs,Lister,h.lister@ebor.academy,/Osbaldwick/Staff
+Mrs,Kettlewell,j.kettlewell@ebor.academy,/Lakeside/Staff
+Mrs,Kulman-Greenwood,e.kulman-greenwood@ebor.academy,/All Saints/Junior/Staff
+Mrs,Hine,m.hine@ebor.academy,/Osbaldwick/Staff
+Mrs,Winter,a.winter@ebor.academy,/Staynor Hall/Admin Staff
+Mrs,Brodie,l.brodie@ebor.academy,/All Saints/Junior/Staff
+Mrs,Talbot,p.talbot@ebor.academy,/All Saints/Junior/Staff
+Mrs,El-Hadrami,a.el-hadrami@ebor.academy,/Osbaldwick/Staff
+Mrs,Farrow,p.farrow@ebor.academy,/Patrington/Staff
+Mrs,Idzinska,a.idzinska@ebor.academy,/Lakeside/Staff
+Mrs,Saxton,a.saxton@ebor.academy,/Lakeside/Staff
+Mrs,Jackson,k.jackson@ebor.academy,/Camblesforth/Admin Staff
+Mrs,Wilson,j.wilson2@ebor.academy,/Patrington/Admin Staff
+Mrs,Jolly,a.jolly@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Hammerton,r.hammerton@ebor.academy,/Filey Infants/Staff
+Mrs,Kitching,h.kitching@ebor.academy,/Alderman Cogan/Staff
+Mrs,Myers,t.myers@ebor.academy,/Sproatley Endowed/Admin Staff
+Mrs,Bramwell,c.bramwell1@ebor.academy,/Osbaldwick/Staff
+Mrs,Tippett,v.tippett@ebor.academy,/Sproatley Endowed/Admin Staff
+Mrs,Blackmore,v.blackmore@ebor.academy,/Alderman Cogan/Staff
+Mrs,Sage,l.sage@ebor.academy,/Riston/Staff
+Mrs,Whittaker,r.whittaker@ebor.academy,/Lakeside/Staff
+Mrs,Beanland,a.beanland@ebor.academy,/Filey Infants/Staff
+Mrs,Stamp,a.stamp@ebor.academy,/Osbaldwick/Staff
+Mrs,Pugh,s.pugh@ebor.academy,/Park Grove/Staff
+Mrs,Haselden-Atkins,s.haselden-atkins@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Steel,h.steel1@ebor.academy,/Park Grove/Staff
+Mrs,Hardy,s.hardy@ebor.academy,/Braeburn/Staff
+Mrs,Ward,l.ward1@ebor.academy,/Filey Infants/Staff
+Mrs,Battersby,l.battersby@ebor.academy,/Haxby Road/Staff
+Mrs,Ward,k.ward@ebor.academy,/Sherburn/Staff
+Mrs,Thandi,c.thandi@ebor.academy,/Staynor Hall/Staff
+Mrs,Smart,n.smart@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Cummings,r.cummings@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Old,h.old@ebor.academy,/Park Grove/Staff
+Mrs,Mitha,s.mitha@ebor.academy,/Osbaldwick/Staff
+Mrs,Denton,l.denton@ebor.academy,/Alderman Cogan/Staff
+Mrs,Boyes,k.boyes@ebor.academy,/Braeburn/Staff
+Mrs,Radcenko,l.radcenko@ebor.academy,/Alderman Cogan/Staff
+Mrs,Tragni,s.tragni@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Wall,h.wall1@ebor.academy,/Osbaldwick/Staff
+Mrs,Noakes,j.noakes@ebor.academy,/Lakeside/Staff
+Mrs,Mackay,f.mackay@ebor.academy,/Braeburn/Staff
+Mrs,Newman,p.newman@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Taylor,v.taylor@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Burgess,s.burgess@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Bates,v.bates@ebor.academy,/MAR/Staff
+Mrs,Ross,k.ross@ebor.academy,/Osbaldwick/Staff
+Mrs,Saddington,r.saddington@ebor.academy,/All Saints/Infants/Staff
+Mrs,Smith,e.smith@ebor.academy,/Alderman Cogan/Staff
+Mrs,Wright,h.wright@ebor.academy,/Camblesforth/Staff
+Mrs,Buckley,a.buckley@ebor.academy,/MAR/Staff
+Mrs,Oliver,s.oliver@ebor.academy,/Alderman Cogan/Staff
+Mrs,Banton,s.banton@ebor.academy,/Staynor Hall/Staff
+Mrs,Nicholson,s.nicholson@ebor.academy,/Alderman Cogan/Staff
+Mrs,Green,p.green@ebor.academy,/Alderman Cogan/Staff
+Mrs,Dennis,m.dennis@ebor.academy,/Braeburn/Staff
+Mrs,Tymon,k.tymon@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Good,t.good@ebor.academy,/MAR/Staff
+Mrs,Pickering,k.pickering@ebor.academy,/Patrington/Staff
+Mrs,Bullock,a.bullock@ebor.academy,/Camblesforth/Staff
+Mrs,Harrison,s.harrison@ebor.academy,/MAR/Staff
+Mrs,Shaw,v.shaw@ebor.academy,/MAR/Admin Staff
+Mrs,Twidale,k.twidale@ebor.academy,/All Saints/Junior/Staff
+Mrs,Humphreys,l.humphreys@ebor.academy,/Tadcaster/Admin Staff
+Mrs,Nicholson,l.nicholson@ebor.academy,/All Saints/Infants/Staff
+Mrs,Walker-Stabler,s.walker-stabler@ebor.academy,/Sherburn/Staff
+Mrs,Meek,l.meek@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Murray,l.murray1@ebor.academy,/Alderman Cogan/Staff
+Mrs,Exton,l.exton@ebor.academy,/Braeburn/Admin Staff
+Mrs,Steel,g.steel@ebor.academy,/Filey Infants/Staff
+Mrs,Batters,a.batters@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Harbertson,j.harbertson@ebor.academy,/Park Grove/Staff
+Mrs,Booth,e.booth@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Bell,e.bell1@ebor.academy,/Haxby Road/Staff
+Mrs,Sessford,m.sessford@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Smith,k.smith@ebor.academy,/All Saints/Infants/Staff
+Mrs,McLaren,k.mclaren@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Tunstall,s.tunstall@ebor.academy,/Lakeside/Admin Staff
+Mrs,Colling,c.colling@ebor.academy,/Filey Infants/Staff
+Mrs,Williamson,r.williamson@ebor.academy,/Tockwith/Staff
+Mrs,Smith,d.smith@ebor.academy,/Braeburn/Staff
+Mrs,Martin,d.martin@ebor.academy,/Haxby Road/Staff
+Mrs,Wilson,j.wilson@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Findley,a.findley@ebor.academy,/Alderman Cogan/Staff
+Mrs,Sarris,j.sarris@ebor.academy,/All Saints/Infants/Staff
+Mrs,Greenley,p.greenley@ebor.academy,/Braeburn/Staff
+Mrs,Bettney,t.bettney@ebor.academy,/Alderman Cogan/Staff
+Mrs,Vowles,k.vowles@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Pickersgill,d.pickersgill@ebor.academy,/Patrington/Staff
+Mrs,Eddon,k.eddon@ebor.academy,/Haxby Road/Staff
+Mrs,Dry,k.dry@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Roberts,n.roberts@ebor.academy,/Camblesforth/Admin Staff
+Mrs,Gargiulo,s.gargiulo@ebor.academy,/Osbaldwick/Staff
+Mrs,Teahan,h.teahan@ebor.academy,/Braeburn/Staff
+Mrs,Chalk,m.chalk@ebor.academy,/Braeburn/Staff
+Mrs,Raper,d.raper@ebor.academy,/Filey Infants/Staff
+Mrs,James,r.james@ebor.academy,/All Saints/Infants/Staff
+Mrs,Priestley,k.priestley@ebor.academy,/Braeburn/Staff
+Mrs,Tiffany,a.tiffany@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Smillie,f.smillie@ebor.academy,/Staynor Hall/Staff
+Mrs,Cutsforth,a.cutsforth@ebor.academy,/Patrington/Staff
+Mrs,Addrison,l.addrison@ebor.academy,/All Saints/Infants/Staff
+Mrs,Langan,c.langan@ebor.academy,/Haxby Road/Staff
+Mrs,Black,j.black@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Chattaway,h.chattaway@ebor.academy,/All Saints/Infants/Staff
+Mrs,Molloy,v.molloy@ebor.academy,/Osbaldwick/Staff
+Mrs,Feetenby,h.feetenby@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Kellett,b.kellett@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Rollinson,c.rollinson@ebor.academy,/Patrington/Staff
+Mrs,Hancock,c.hancock@ebor.academy,/Alderman Cogan/Staff
+Mrs,Brown,d.brown@ebor.academy,/Hob Moor/Admin Staff
+Mrs,Harber,j.harber@ebor.academy,/Sherburn/Staff
+Mrs,Penwill,s.penwill@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Simpson,s.simpson@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Northage,r.northage@ebor.academy,/Alderman Cogan/Admin Staff
+Mrs,Powell,l.powell@ebor.academy,/Haxby Road/Staff
+Mrs,Jarvis,k.jarvis@ebor.academy,/Luttons/Staff
+Mrs,Jamieson,m.jamieson@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Wright,s.wright@ebor.academy,/All Saints/Infants/Staff
+Mrs,Pollintine,e.pollintine@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Strachan,j.strachan@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Bairstow,l.bairstow@ebor.academy,/Tadcaster/Staff
+Mrs,Hull,l.hull@ebor.academy,/Osbaldwick/Staff
+Mrs,Barber,s.barber@ebor.academy,/Filey Infants/Staff
+Mrs,McHugh,l.mchugh@ebor.academy,/Lakeside/Staff
+Mrs,Taylor,k.taylor@ebor.academy,/Camblesforth/Staff
+Mrs,Layton,n.layton@ebor.academy,/Park Grove/Staff
+Mrs,Fenwick,a.fenwick@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Farmer,j.farmer@ebor.academy,/Alderman Cogan/Staff
+Mrs,Dykes,c.dykes@ebor.academy,/Park Grove/Admin Staff
+Mrs,Cowling,v.cowling@ebor.academy,/Braeburn/Staff
+Mrs,Betts,j.betts@ebor.academy,/Alderman Cogan/Staff
+Mrs,Fleming,j.fleming@ebor.academy,/Sherburn/Staff
+Mrs,Charles,k.charles@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Christmas,b.christmas@ebor.academy,/Osbaldwick/Staff
+Mrs,Ross,p.ross@ebor.academy,/All Saints/Infants/Staff
+Mrs,Smith,s.smith1@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Hayward,l.hayward@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Lambert,l.lambert@ebor.academy,/Filey Infants/Staff
+Mrs,Johnson,k.johnson1@ebor.academy,/Patrington/Staff
+Mrs,Dearlove,j.dearlove@ebor.academy,/Lakeside/Staff
+Mrs,Ward,l.ward2@ebor.academy,/Braeburn/Staff
+Mrs,Scott,s.scott1@ebor.academy,/Sherburn/Staff
+Mrs,Wade,l.wade@ebor.academy,/Lakeside/Staff
+Mrs,Parks,s.parks@ebor.academy,/Alderman Cogan/Staff
+Mrs,Maclean,m.maclean@ebor.academy,/Braeburn/Staff
+Mrs,Karpow,t.karpow@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Hearson,v.hearson@ebor.academy,/Park Grove/Staff
+Mrs,Roche,j.roche@ebor.academy,/Tadcaster/Staff
+Mrs,Sleeman,e.sleeman@ebor.academy,/Camblesforth/Staff
+Mrs,Rose,e.rose1@ebor.academy,/Haxby Road/Staff
+Mrs,Ayrton,a.ayrton@ebor.academy,/Riston/Staff
+Mrs,Fitz-Patrick,s.fitz-patrick@ebor.academy,/Sigglesthorne/Staff
+Mrs,Sharratt,n.sharratt@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Boxall,s.boxall@ebor.academy,/Alderman Cogan/Staff
+Mrs,Gibson,c.gibson@ebor.academy,/Haxby Road/Staff
+Mrs,Akrawi,l.akrawi@ebor.academy,/All Saints/Junior/Staff
+Mrs,Storry,d.storry@ebor.academy,/Braeburn/Staff
+Mrs,Pepper,h.pepper@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Bryant,a.bryant@ebor.academy,/Braeburn/Staff
+Mrs,Cammidge,h.cammidge@ebor.academy,/Haxby Road/Staff
+Mrs,Cook,s.cook2@ebor.academy,/Tockwith/Admin Staff
+Mrs,Baxter,h.baxter1@ebor.academy,/Patrington/Staff
+Mrs,Parker,t.parker@ebor.academy,/Tockwith/Staff
+Mrs,McQuade,c.mcquade@ebor.academy,/Haxby Road/Staff
+Mrs,Hunter,s.hunter@ebor.academy,/All Saints/Infants/Staff
+Mrs,Wilson-Waltham,s.wilson-waltham@ebor.academy,/Staynor Hall/Staff
+Mrs,Heels,j.heels@ebor.academy,/Osbaldwick/Staff
+Mrs,Rimmington,a.rimmington@ebor.academy,/All Saints/Junior/Admin Staff
+Mrs,Marshall,s.marshall1@ebor.academy,/Patrington/Staff
+Mrs,Gilmour,j.gilmour@ebor.academy,/Haxby Road/Staff
+Mrs,Holland,d.holland@ebor.academy,/All Saints/Infants/Staff
+Mrs,Johnson,d.johnson@ebor.academy,/Filey Infants/Staff
+Mrs,Seaver,v.seaver@ebor.academy,/MAR/Staff
+Mrs,Fell,l.fell@ebor.academy,/Staynor Hall/Staff
+Mrs,Beckwith,n.beckwith@ebor.academy,/Haxby Road/Staff
+Mrs,Grantham,c.grantham@ebor.academy,/All Saints/Junior/Staff
+Mrs,Moss,j.moss@ebor.academy,/Staynor Hall/Staff
+Mrs,Littlewood,a.littlewood@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Owens,s.owens@ebor.academy,/Sigglesthorne/Staff
+Mrs,Messruther,h.messruther@ebor.academy,/Osbaldwick/Staff
+Mrs,Lee,s.lee@ebor.academy,/Braeburn/Staff
+Mrs,Pamo-Martin,m.pamo-martin@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Gutherless-Wilcox,r.gutherless-wilcox@ebor.academy,/MAR/Admin Staff
+Mrs,Unwin,c.unwin@ebor.academy,/Haxby Road/Staff
+Mrs,Kerr,s.kerr@ebor.academy,/Filey Infants/Staff
+Mrs,Rhodes,s.rhodes@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Shelton,c.shelton@ebor.academy,/Park Grove/Staff
+Mrs,Robinson,k.robinson@ebor.academy,/All Saints/Infants/Staff
+Mrs,Bedford,d.bedford@ebor.academy,/Robert Wilkinson/Admin Staff
+Mrs,Bloom,l.bloom@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Keaney,r.keaney@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Hadden,d.hadden@ebor.academy,/Osbaldwick/Staff
+Mrs,Egan,s.egan@ebor.academy,/Filey Infants/Staff
+Mrs,Clixby,l.clixby@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Cairney,d.cairney@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Wedgewood,a.wedgewood@ebor.academy,/Haxby Road/Staff
+Mrs,Foster,k.foster@ebor.academy,/All Saints/Infants/Staff
+Mrs,Smith,a.smith1@ebor.academy,/Braeburn/Staff
+Mrs,White,c.white@ebor.academy,/MAR/Staff
+Mrs,Tempest,c.tempest@ebor.academy,/Osbaldwick/Staff
+Mrs,Sharp,j.sharp@ebor.academy,/Alderman Cogan/Staff
+Mrs,Hargreaves,o.hargreaves@ebor.academy,/Hob Moor/Admin Staff
+Mrs,Phillips,m.phillips@ebor.academy,/Haxby Road/Staff
+Mrs,Worth,e.worth@ebor.academy,/All Saints/Infants/Staff
+Mrs,Ketley,m.ketley@ebor.academy,/All Saints/Junior/Staff
+Mrs,Baldry,k.baldry@ebor.academy,/Alderman Cogan/Staff
+Mrs,Gartland,m.gartland@ebor.academy,/Park Grove/Staff
+Mrs,Calpin,j.calpin@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Palmer,r.palmer@ebor.academy,/All Saints/Infants/Staff
+Mrs,Hanks,k.hanks@ebor.academy,/Staynor Hall/Staff
+Mrs,Dale,v.dale@ebor.academy,/CST
+Mrs,Rawling,k.rawling@ebor.academy,/Braeburn/Admin Staff
+Mrs,Skeoch,c.skeoch@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Jarvis,j.jarvis@ebor.academy,/Braeburn/Staff
+Mrs,Jenkins,z.jenkins@ebor.academy,/Tockwith/Staff
+Mrs,Bryant,l.bryant@ebor.academy,/Braeburn/Staff
+Mrs,Dodsworth,v.dodsworth@ebor.academy,/Haxby Road/Staff
+Mrs,Jacobsz,f.jacobsz@ebor.academy,/All Saints/Infants/Staff
+Mrs,Spurr,h.spurr@ebor.academy,/Tockwith/Admin Staff
+Mrs,Hesp,j.hesp@ebor.academy,/Alderman Cogan/Staff
+Mrs,Edwards,d.edwards@ebor.academy,/Filey Infants/Staff
+Mrs,Leigh,a.leigh@ebor.academy,/Osbaldwick/Staff
+Mrs,Keary,j.keary@ebor.academy,/Filey Infants/Staff
+Mrs,Sheppard,s.sheppard@ebor.academy,/Patrington/Staff
+Mrs,Fowler,l.fowler@ebor.academy,/Lakeside/Staff
+Mrs,Smith,m.smith@ebor.academy,/MAR/Staff
+Mrs,Meyerhoff,t.meyerhoff1@ebor.academy,/All Saints/Infants/Staff
+Mrs,Walker,a.walker@ebor.academy,/All Saints/Infants/Staff
+Mrs,Stock,f.stock@ebor.academy,/Haxby Road/Staff
+Mrs,Stephen,v.stephen@ebor.academy,/Tadcaster/Staff
+Mrs,Watson,j.watson1@ebor.academy,/Lakeside/Staff
+Mrs,Bacon,r.bacon@ebor.academy,/Patrington/Staff
+Mrs,Enderby,s.enderby@ebor.academy,/Riston/Staff
+Mrs,Rawlinson,a.rawlinson@ebor.academy,/Braeburn/Staff
+Mrs,Caffrey,c.caffrey@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Bryan-Smith,n.bryan-smith@ebor.academy,/Osbaldwick/Staff
+Mrs,Fleming,l.fleming@ebor.academy,/Patrington/Staff
+Mrs,Bryan,h.bryan@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Clark,a.clark@ebor.academy,/Filey Infants/Staff
+Mrs,Mechen,j.mechen@ebor.academy,/All Saints/Junior/Admin Staff
+Mrs,Fickling,l.fickling@ebor.academy,/Staynor Hall/Admin Staff
+Mrs,Boynton,k.boynton@ebor.academy,/Haxby Road/Admin Staff
+Mrs,Marsden,j.marsden@ebor.academy,/Sigglesthorne/Admin Staff
+Mrs,Hudson,s.hudson@ebor.academy,/Staynor Hall/Staff
+Mrs,Terry,f.terry@ebor.academy,/Osbaldwick/Staff
+Mrs,Campbell,d.campbell@ebor.academy,/Patrington/Staff
+Mrs,Atkinson,v.atkinson@ebor.academy,/Lakeside/Staff
+Mrs,Brown,s.brown1@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Davis,h.davis@ebor.academy,/Sigglesthorne/Staff
+Mrs,Everett,s.everett@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Upton,l.upton1@ebor.academy,/Filey Infants/Staff
+Mrs,Poole,c.poole1@ebor.academy,/Tockwith/Staff
+Mrs,Newsham,z.newsham@ebor.academy,/All Saints/Infants/Admin Staff
+Mrs,Buckton,l.buckton@ebor.academy,/Riston/Staff
+Mrs,Mortimer,l.mortimer@ebor.academy,/Filey Infants/Admin Staff
+Mrs,Gowans,m.gowans@ebor.academy,/All Saints/Junior/Staff
+Mrs,Wakeley,j.wakeley@ebor.academy,/Lakeside/Staff
+Mrs,Quinn,k.quinn@ebor.academy,/Park Grove/Staff
+Mrs,Dutton,h.dutton@ebor.academy,/Tockwith/Staff
+Mrs,Bell,j.bell1@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Anderson,l.anderson@ebor.academy,/Filey Infants/Staff
+Mrs,Clark,t.clark@ebor.academy,/Patrington/Staff
+Mrs,Huggins,c.huggins@ebor.academy,/Haxby Road/Staff
+Mrs,Robertson,l.robertson1@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Dixon,k.dixon@ebor.academy,/Alderman Cogan/Staff
+Mrs,Hammill,z.hammill@ebor.academy,/Staynor Hall/Staff
+Mrs,Hogg,s.hogg@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Potter,c.potter@ebor.academy,/All Saints/Infants/Staff
+Mrs,George,j.george@ebor.academy,/CST
+Mrs,Groves,j.groves@ebor.academy,/Easington/Staff
+Mrs,King,k.king@ebor.academy,/Tockwith/Staff
+Mrs,Shephard,s.shephard@ebor.academy,/Lakeside/Staff
+Mrs,Preston,l.preston@ebor.academy,/Riston/Staff
+Mrs,Boyd,s.boyd@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Jeff,a.jeff1@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Waugh,a.waugh@ebor.academy,/Camblesforth/Staff
+Mrs,Hobson,s.hobson@ebor.academy,/Tockwith/Staff
+Mrs,Richardson,a.richardson@ebor.academy,/All Saints/Infants/Staff
+Mrs,Legge,e.legge@ebor.academy,/Haxby Road/Staff
+Mrs,Johnson,k.johnson@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Mould,j.mould@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Foster,g.foster@ebor.academy,/Staynor Hall/Admin Staff
+Mrs,Hinson,j.hinson@ebor.academy,/All Saints/Infants/Staff
+Mrs,Meakin,j.meakin@ebor.academy,/Osbaldwick/Staff
+Mrs,Connolly,n.connolly@ebor.academy,/Hob Moor/Admin Staff
+Mrs,Mathewson,a.mathewson@ebor.academy,/Braeburn/Admin Staff
+Mrs,Bell,a.bell@ebor.academy,/Park Grove/Staff
+Mrs,Peel,j.peel@ebor.academy,/Sherburn/Staff
+Mrs,Roach,j.roach@ebor.academy,/MAR/Staff
+Mrs,Williams,t.williams@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Barnard,d.barnard@ebor.academy,/Alderman Cogan/Admin Staff
+Mrs,Scott,j.scott@ebor.academy,/All Saints/Junior/Staff
+Mrs,Starr,j.starr@ebor.academy,/Tockwith/Staff
+Mrs,Leung,m.leung@ebor.academy,/Haxby Road/Staff
+Mrs,Gray,k.gray@ebor.academy,/All Saints/Junior/Staff
+Mrs,Marshall,n.marshall@ebor.academy,/Braeburn/Staff
+Mrs,Thompson,r.thompson2@ebor.academy,/Luttons/Staff
+Mrs,Hoyland,s.hoyland@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Longthorn,v.longthorn@ebor.academy,/All Saints/Infants/Staff
+Mrs,Elshout,p.elshout@ebor.academy,/All Saints/Infants/Staff
+Mrs,Thomas,r.thomas@ebor.academy,/Haxby Road/Staff
+Mrs,Horner,e.horner@ebor.academy,/Haxby Road/Staff
+Mrs,Roach,k.roach@ebor.academy,/Braeburn/Staff
+Mrs,Rimmington,r.rimmington@ebor.academy,/All Saints/Infants/Staff
+Mrs,Anderson,c.anderson@ebor.academy,/Braeburn/Staff
+Mrs,Sheldrick,m.sheldrick@ebor.academy,/Braeburn/Staff
+Mrs,Watson,s.watson@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Stone,s.stone@ebor.academy,/Park Grove/Staff
+Mrs,Manson,p.manson@ebor.academy,/Braeburn/Admin Staff
+Mrs,Shipley,k.shipley@ebor.academy,/Alderman Cogan/Staff
+Mrs,Chapman,b.chapman@ebor.academy,/Braeburn/Staff
+Mrs,Rennison,s.rennison@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Golding,a.golding@ebor.academy,/CST
+Mrs,Hambleton,l.hambleton@ebor.academy,/Haxby Road/Staff
+Mrs,White,e.white@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Hammond,t.hammond@ebor.academy,/Riston/Staff
+Mrs,Parsonage,l.parsonage@ebor.academy,/Camblesforth/Staff
+Mrs,Walsh,a.walsh@ebor.academy,/Easington/Staff
+Mrs,Gough,l.gough@ebor.academy,/Filey Infants/Staff
+Mrs,Briggs,d.briggs@ebor.academy,/Osbaldwick/Staff
+Mrs,Gaines,s.gaines@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Marchant,f.marchant@ebor.academy,/All Saints/Junior/Staff
+Mrs,Powell,d.powell@ebor.academy,/Haxby Road/Staff
+Mrs,Mitchell,v.mitchell@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Steyert,g.steyert@ebor.academy,/MAR/Admin Staff
+Mrs,Taylor,e.taylor1@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Whitrod,c.whitrod@ebor.academy,/Easington/Staff
+Mrs,Sadozai,s.sadozai@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Maclennan,c.maclennan@ebor.academy,/Tockwith/Staff
+Mrs,Jones,k.jones@ebor.academy,/Osbaldwick/Staff
+Mrs,Teal,l.teal@ebor.academy,/Alderman Cogan/Staff
+Mrs,Ketley,d.ketley@ebor.academy,/Alderman Cogan/Staff
+Mrs,Lazenby,v.lazenby@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Taylor,j.taylor2@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Sibary,h.sibary@ebor.academy,/MAR/Admin Staff
+Mrs,Ridley,k.ridley@ebor.academy,/Sherburn/Staff
+Mrs,Shir Mohammad,f.mohammad@ebor.academy,/All Saints/Infants/Staff
+Mrs,Gibb,a.gibb@ebor.academy,/Brotherton and Byram/Admin Staff
+Mrs,Rippon,j.rippon@ebor.academy,/Osbaldwick/Staff
+Mrs,Stansfield,s.stansfield@ebor.academy,/All Saints/Junior/Staff
+Mrs,Martin,n.martin@ebor.academy,/Park Grove/Staff
+Mrs,Leahy,a.leahy@ebor.academy,/Osbaldwick/Staff
+Mrs,Ferguson,h.ferguson@ebor.academy,/Osbaldwick/Staff
+Mrs,Cattle,g.cattle@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Davis,s.davis@ebor.academy,/All Saints/Infants/Staff
+Mrs,Russell,h.russell@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Robinson,l.robinson2@ebor.academy,/Haxby Road/Admin Staff
+Mrs,Pepper,g.pepper@ebor.academy,/Patrington/Admin Staff
+Mrs,Harrington,l.harrington@ebor.academy,/MAR/Staff
+Mrs,Woodhouse,s.woodhouse@ebor.academy,/Lakeside/Staff
+Mrs,Smith,s.smith6@ebor.academy,/Alderman Cogan/Staff
+Mrs,Dobson,c.dobson@ebor.academy,/Sherburn/Staff
+Mrs,Jobson,r.jobson@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Carrigan,g.carrigan@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Deighton,l.deighton@ebor.academy,/Sherburn/Staff
+Mrs,Haddington,c.haddington@ebor.academy,/Filey Infants/Staff
+Mrs,Eastaugh,c.eastaugh@ebor.academy,/Osbaldwick/Staff
+Mrs,Wrightson,k.wrightson@ebor.academy,/Sigglesthorne/Staff
+Mrs,Marshall,k.marshall@ebor.academy,/Osbaldwick/Staff
+Mrs,Dee,h.dee@ebor.academy,/Patrington/Admin Staff
+Mrs,Welburn,j.welburn@ebor.academy,/MAR/Staff
+Mrs,Canham,a.canham@ebor.academy,/Park Grove/Staff
+Mrs,Aitken,e.aitken@ebor.academy,/Braeburn/Staff
+Mrs,Thompson,g.thompson@ebor.academy,/All Saints/Junior/Staff
+Mrs,Pinder,l.pinder@ebor.academy,/MAR/Staff
+Mrs,Hayes-Smith,h.hayes-smith@ebor.academy,/Lakeside/Admin Staff
+Mrs,Claire Potter,c.potter1@ebor.academy,/All Saints/Junior/Staff
+Mrs,Carolan,m.carolan@ebor.academy,/Braeburn/Staff
+Mrs,Findleton,i.findleton@ebor.academy,/Staynor Hall/Staff
+Mrs,Robson,a.robson@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Uddin,k.uddin@ebor.academy,/Park Grove/Staff
+Mrs,Beniston,j.beniston@ebor.academy,/Park Grove/Staff
+Mrs,Walker,e.walker@ebor.academy,/CST
+Mrs,Smith,n.smith1@ebor.academy,/Osbaldwick/Staff
+Mrs,Miller,l.miller@ebor.academy,/Filey Infants/Staff
+Mrs,Robinson,c.robinson@ebor.academy,/All Saints/Junior/Staff
+Mrs,Slack,s.slack@ebor.academy,/Tockwith/Staff
+Mrs,Loose,k.loose@ebor.academy,/Camblesforth/Staff
+Mrs,Strachan,d.strachan@ebor.academy,/Tockwith/Staff
+Mrs,Davis,g.davis@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Prosser,s.prosser@ebor.academy,/Riston/Admin Staff
+Mrs,Smyth,t.smyth@ebor.academy,/Braeburn/Staff
+Mrs,Beckitt,c.beckitt@ebor.academy,/Braeburn/Staff
+Mrs,Seabourne,h.seabourne@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Gibbons,k.gibbons@ebor.academy,/Osbaldwick/Admin Staff
+Mrs,Ainley,s.ainley@ebor.academy,/Patrington/Staff
+Mrs,Wardman,m.wardman@ebor.academy,/Easington/Staff
+Mrs,Willis,a.willis@ebor.academy,/Osbaldwick/Staff
+Mrs,Embleton,s.embleton@ebor.academy,/Park Grove/Admin Staff
+Mrs,Ludjan,g.ludjan@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Moore,z.moore@ebor.academy,/Filey Infants/Staff
+Mrs,Murray,h.murray@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Bedford,a.bedford@ebor.academy,/Tadcaster/Staff
+Mrs,Appleton,c.appleton@ebor.academy,/Park Grove/Staff
+Mrs,Weatherill,s.weatherill@ebor.academy,/Alderman Cogan/Staff
+Mrs,Hufton,k.hufton@ebor.academy,/Hob Moor/Admin Staff
+Mrs,Coultish,h.coultish@ebor.academy,/Camblesforth/Staff
+Mrs,Sickling,k.sickling@ebor.academy,/Haxby Road/Staff
+Mrs,Warren,m.warren@ebor.academy,/Sherburn/Staff
+Mrs,Smith,r.smith1@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Parker,e.parker@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Hope,a.hope@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Henson,d.henson@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Spruce,j.spruce@ebor.academy,/Easington/Admin Staff
+Mrs,Walker,r.walker1@ebor.academy,/Sigglesthorne/Staff
+Mrs,Baines,m.baines@ebor.academy,/All Saints/Junior/Staff
+Mrs,Stubbs,h.stubbs@ebor.academy,/Filey Infants/Staff
+Mrs,Muggleton,n.muggleton@ebor.academy,/Staynor Hall/Staff
+Mrs,Miller,e.miller@ebor.academy,/All Saints/Junior/Staff
+Mrs,Wood,a.wood@ebor.academy,/Braeburn/Staff
+Mrs,Towey,g.towey@ebor.academy,/Filey Infants/Staff
+Mrs,Oliver,k.oliver@ebor.academy,/Osbaldwick/Staff
+Mrs,Regan,m.regan@ebor.academy,/All Saints/Infants/Staff
+Mrs,Wilson,e.wilson3@ebor.academy,/Braeburn/Admin Staff
+Mrs,Maddra,j.maddra@ebor.academy,/All Saints/Junior/Staff
+Mrs,Davies,e.davies@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Danby,k.danby@ebor.academy,/Alderman Cogan/Staff
+Mrs,Holt,m.holt@ebor.academy,/Braeburn/Staff
+Mrs,Stonehouse,c.stonehouse@ebor.academy,/Braeburn/Staff
+Mrs,Barr,e.barr@ebor.academy,/Braeburn/Staff
+Mrs,Turner,l.turner@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Hampshire,k.hampshire@ebor.academy,/Camblesforth/Staff
+Mrs,Edwards,m.edwards@ebor.academy,/Alderman Cogan/Staff
+Mrs,Wiles,y.wiles@ebor.academy,/Alderman Cogan/Staff
+Mrs,Smith,h.smith@ebor.academy,/Robert Wilkinson/Admin Staff
+Mrs,Hand,s.hand@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Newton,v.newton@ebor.academy,/All Saints/Infants/Staff
+Mrs,Steel,c.steel@ebor.academy,/All Saints/Junior/Staff
+Mrs,Bell,s.bell@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Filipo,k.filipo@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Shaw,r.shaw@ebor.academy,/Osbaldwick/Staff
+Mrs,Foster,v.foster@ebor.academy,/Robert Wilkinson/Admin Staff
+Mrs,Parkinson,j.parkinson@ebor.academy,/All Saints/Junior/Staff
+Mrs,Wilson,a.wilson1@ebor.academy,/Filey Infants/Staff
+Mrs,Cawthorne,a.cawthorne@ebor.academy,/All Saints/Junior/Staff
+Mrs,Pidd,j.pidd@ebor.academy,/All Saints/Junior/Staff
+Mrs,Massheder,l.massheder@ebor.academy,/Sherburn/Staff
+Mrs,Swain,c.swain@ebor.academy,/Easington/Staff
+Mrs,Scott,j.scott1@ebor.academy,/MAR/Staff
+Mrs,Hadfield,j.hadfield@ebor.academy,/Lakeside/Staff
+Mrs,Whitehouse,l.whitehouse@ebor.academy,/All Saints/Infants/Admin Staff
+Mrs,Johnson,l.johnson1@ebor.academy,/Filey Infants/Staff
+Mrs,Innes,j.innes@ebor.academy,/Park Grove/Staff
+Mrs,Eckley,d.eckley@ebor.academy,/Camblesforth/Staff
+Mrs,Abbey,n.abbey@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Pummell,b.pummell@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Wall,h.wall@ebor.academy,/Osbaldwick/Staff
+Mrs,Ingle,r.ingle@ebor.academy,/Braeburn/Staff
+Mrs,East,c.east@ebor.academy,/All Saints/Infants/Staff
+Mrs,Hardy,k.hardy@ebor.academy,/Osbaldwick/Admin Staff
+Mrs,Newlove,c.newlove@ebor.academy,/Filey Infants/Admin Staff
+Mrs,Dunnachie,c.dunnachie@ebor.academy,/MAR/Staff
+Mrs,Curry,h.curry@ebor.academy,/Tockwith/Staff
+Mrs,Peel,c.peel@ebor.academy,/Alderman Cogan/Staff
+Mrs,Coyle,l.coyle@ebor.academy,/Osbaldwick/Staff
+Mrs,Thompson,j.thompson@ebor.academy,/Hob Moor/Admin Staff
+Mrs,Coates,c.coates@ebor.academy,/Braeburn/Staff
+Mrs,Kendall,c.kendall@ebor.academy,/All Saints/Junior/Staff
+Mrs,Dunnett,k.dunnett@ebor.academy,/Easington/Staff
+Mrs,Courtney,r.courtney@ebor.academy,/All Saints/Infants/Staff
+Mrs,Davison,s.davison@ebor.academy,/Osbaldwick/Staff
+Mrs,Gill,e.gill@ebor.academy,/Riston/Staff
+Mrs,Gray,j.gray@ebor.academy,/Park Grove/Staff
+Mrs,Goff,s.goff@ebor.academy,/All Saints/Junior/Staff
+Mrs,Fielder,k.fielder@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Batty,s.batty@ebor.academy,/Haxby Road/Staff
+Mrs,Fowles,n.fowles@ebor.academy,/Park Grove/Staff
+Mrs,Booth,j.booth@ebor.academy,/Riston/Staff
+Mrs,Coulson,n.coulson@ebor.academy,/Staynor Hall/Staff
+Mrs,Perry,j.perry1@ebor.academy,/Tockwith/Staff
+Mrs,Aitken,m.aitken@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Culley,a.culley@ebor.academy,/Osbaldwick/Staff
+Mrs,Southern,t.southern@ebor.academy,/All Saints/Junior/Staff
+Mrs,Barrett,a.barrett@ebor.academy,/Patrington/Staff
+Mrs,Preen,l.preen@ebor.academy,/Lakeside/Staff
+Mrs,Burrows,s.burrows@ebor.academy,/Osbaldwick/Staff
+Mrs,Jones,s.jones1@ebor.academy,/Lakeside/Admin Staff
+Mrs,Palmer,l.palmer@ebor.academy,/All Saints/Junior/Staff
+Mrs,Ellis,n.ellis@ebor.academy,/Hob Moor/Admin Staff
+Mrs,Maskill,t.maskill@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Seaman,l.seaman@ebor.academy,/Riston/Staff
+Mrs,Medley,c.medley@ebor.academy,/Staynor Hall/Staff
+Mrs,Danks,c.danks@ebor.academy,/Staynor Hall/Admin Staff
+Mrs,Cotterill,j.cotterill@ebor.academy,/MAR/Staff
+Mrs,Hannington,s.hannington@ebor.academy,/Haxby Road/Staff
+Mrs,Cavanagh,k.cavanagh@ebor.academy,/Patrington/Staff
+Mrs,Coverdale,s.coverdale@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Williams,j.williams2@ebor.academy,/Braeburn/Staff
+Mrs,Butterfield,p.butterfield@ebor.academy,/Filey Infants/Staff
+Mrs,Parker,j.parker@ebor.academy,/All Saints/Junior/Staff
+Mrs,Clark,m.clark@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Beales,a.beales@ebor.academy,/All Saints/Junior/Staff
+Mrs,Clark,h.clark1@ebor.academy,/Braeburn/Staff
+Mrs,Mowat,e.mowat@ebor.academy,/Osbaldwick/Staff
+Mrs,Codd,d.codd@ebor.academy,/Patrington/Staff
+Mrs,Adams,e.adams@ebor.academy,/Robert Wilkinson/Staff
+Mrs,Loney,s.loney@ebor.academy,/Sigglesthorne/Staff
+Mrs,McCleary,d.mccleary@ebor.academy,/Sigglesthorne/Staff
+Mrs,Allanson,e.allanson@ebor.academy,/Staynor Hall/Staff
+Mrs,Coupland,k.coupland@ebor.academy,/Alderman Cogan/Staff
+Mrs,Long,t.long@ebor.academy,/Haxby Road/Admin Staff
+Mrs,Lees,k.lees@ebor.academy,/Sproatley Endowed/Staff
+Mrs,Jaye,h.jaye@ebor.academy,/Patrington/Staff
+Mrs,Christie,s.christie@ebor.academy,/Brotherton and Byram/Staff
+Mrs,Cochrane,h.cochrane@ebor.academy,/Park Grove/Staff
+Mrs,Verity,k.verity@ebor.academy,/MAR/Staff
+Mrs ,Vollans,l.vollans@ebor.academy,/Lakeside/Admin Staff
+Mrs ,Schippers,j.schippers@ebor.academy,/Tockwith/Staff
+Mrs ,Lee,c.lee@ebor.academy,/Lakeside/Staff
+Mrs ,Henshaw,c.henshaw@ebor.academy,/Haxby Road/Staff
+Mrs ,Marsh,c.marsh1@ebor.academy,/Filey Infants/Staff
+Mrs ,Pilgrim,r.pilgrim@ebor.academy,/Park Grove/Staff
+Mrs ,Gould,c.gould@ebor.academy,/Tockwith/Staff
+Mrs ,Griffin,t.griffin@ebor.academy,/Staynor Hall/Staff
+Mrs ,McCaffrey,s.mccaffrey@ebor.academy,/Haxby Road/Staff
+Mrs ,Knight,n.knight@ebor.academy,/Staynor Hall/Staff
+Mrs ,Westerman,d.westerman@ebor.academy,/Haxby Road/Staff
+Mrs ,Richards,m.richards1@ebor.academy,/All Saints/Infants/Staff
+Mrs ,Waxxing,h.waxxing@ebor.academy,/Patrington/Staff
+Mrs ,Carroll,j.carroll@ebor.academy,/Patrington/Staff
+Mrs Caroline,Anderson,c.anderson1@ebor.academy,/Hob Moor/Admin Staff
+Mrs Emily,Grantham,e.grantham@ebor.academy,/Patrington/Staff
+Ms,Cross,m.cross@ebor.academy,/Patrington/Staff
+Ms,Soper,l.soper@ebor.academy,/Staynor Hall/Staff
+Ms,Delaney,d.delaney@ebor.academy,/Haxby Road/Admin Staff
+Ms,Oliver,a.oliver@ebor.academy,/Braeburn/Staff
+Ms,Rose,c.rose@ebor.academy,/Haxby Road/Staff
+Ms,Aljarrah,a.aljarrah@ebor.academy,/Filey Infants/Staff
+Ms,Keal,l.keal@ebor.academy,/Sproatley Endowed/Staff
+Ms,Robinson,m.robinson@ebor.academy,/Alderman Cogan/Staff
+Ms,Kniveton,m.kniveton@ebor.academy,/Lakeside/Staff
+Ms,Meiklejohn,d.meiklejohn@ebor.academy,/CST
+Ms,Dunmore,d.dunmore@ebor.academy,/Tadcaster/Staff
+Ms,Wheatley,c.wheatley@ebor.academy,/Haxby Road/Staff
+Ms,Cattle,j.cattle@ebor.academy,/MAR/Staff
+Ms,Tipler,a.tipler@ebor.academy,/Easington/Staff
+Ms,Butterill,h.butterill@ebor.academy,/Tockwith/Staff
+Ms,Frost,e.frost@ebor.academy,/Osbaldwick/Staff
+Ms,Waller,j.waller@ebor.academy,/Braeburn/Staff
+Ms,Gill,c.gill@ebor.academy,/Haxby Road/Staff
+Ms,Stathers,n.stathers@ebor.academy,/Riston/Staff
+Ms,Cookson,l.cookson@ebor.academy,/Haxby Road/Staff
+Ms,McIntosh,d.mcintosh@ebor.academy,/Park Grove/Staff
+Ms,Fenlon,l.fenlon@ebor.academy,/Braeburn/Staff
+Ms,Walmsley,a.walmsley@ebor.academy,/Lakeside/Staff
+Ms,Hyde,v.hyde@ebor.academy,/Haxby Road/Staff
+Ms,Caley,j.caley@ebor.academy,/Haxby Road/Staff
+Ms,Wilson,a.wilson@ebor.academy,/Filey Infants/Staff
+Ms,Lawton,l.lawton@ebor.academy,/Haxby Road/Staff
+Ms,Bishop,i.bishop@ebor.academy,/Tadcaster/Admin Staff
+Ms,Richards,m.richards@ebor.academy,/Riston/Admin Staff
+Ms,Garcia,l.garcia@ebor.academy,/Robert Wilkinson/Staff
+Ms,Lovejoy,j.lovejoy@ebor.academy,/CST
+Ms,Elliott,c.elliott@ebor.academy,/Haxby Road/Staff
+Ms,Cook,s.cook@ebor.academy,/All Saints/Junior/Staff
+Ms,Morley,r.morley@ebor.academy,/All Saints/Infants/Staff
+Ms,Fairbairn,d.fairbairn@ebor.academy,/Camblesforth/Staff
+Ms,Howgego,k.howgego@ebor.academy,/Camblesforth/Staff
+Ms,Maguire,a.maguire@ebor.academy,/Tadcaster/Staff
+Ms,Wood,s.wood@ebor.academy,/Easington/Admin Staff
+Ms,Close,c.close@ebor.academy,/Braeburn/Staff
+Ms,Loughran,s.loughran@ebor.academy,/Robert Wilkinson/Staff
+Ms ,Southwick,k.southwick@ebor.academy,/All Saints/Junior/Staff
+Ms ,O'Donnell,j.o'donnell@ebor.academy,/Robert Wilkinson/Staff
+Oliver,Smith,o.smith@ebor.academy,/CST
+Paul,Hampshire,p.hampshire@ebor.academy,/Lakeside/Staff
+Pete,Scott,p.scott@ebor.academy,/CST
+Peter,Robinson,p.robinson1@ebor.academy,/Haxby Road/Staff
+Phill,Coleman,p.coleman@ebor.academy,/Patrington/Staff
+Rachael,Hall,r.hall@ebor.academy,/Alderman Cogan/Staff
+Rachel,Noble,r.noble@ebor.academy,/Robert Wilkinson/Staff
+Rachel,Genther,r.genther@ebor.academy,/Alderman Cogan/Staff
+Richard,Swain,r.swain@ebor.academy,/CST
+Robert Wilkinson,Head,head.rws@ebor.academy,/Robert Wilkinson/Admin Staff
+Robert Wilkinson,SLT,slt.rws@ebor.academy,/Robert Wilkinson/Admin Staff
+Samantha,Lea,s.lea@ebor.academy,/CST
+SENCO,Haxby Road,senco.hrs@ebor.academy,/Haxby Road/Staff
+SHS Supply,Teacher,supply.shs@ebor.academy,/Staynor Hall/Staff
+Siobhan,Chambers,s.chambers@ebor.academy,/Haxby Road/Staff
+Sophie,Sinclair,s.sinclair@ebor.academy,/CST
+Sue,Hinchcliffe,s.hinchcliffe@ebor.academy,/CST
+Supply,OSB,supply.osb@ebor.academy,/Osbaldwick/Staff
+Supply,Account,supply.rws@ebor.academy,/Robert Wilkinson/Staff
+test,test,testing@ebor.academy,/Braeburn/Admin Staff
+Test,User,testuser@ebor.academy,/Alderman Cogan/Admin Staff
+Tim,Moat,t.moat@ebor.academy,/CST
+Tockwith,Staff Test,tocteststaff@ebor.academy,/Tockwith/Staff
+Vanessa,Botterill,v.botterill@ebor.academy,/Park Grove/Admin Staff
+Wendy,Harrington,w.harrington@ebor.academy,/CST
